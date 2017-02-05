@@ -1,0 +1,14 @@
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\WcfUnityTrial.dll.config
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\WcfUnityTrial.dll
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\WcfUnityTrial.pdb
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Microsoft.Practices.Unity.dll
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Unity.Wcf.dll
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Microsoft.Practices.Unity.xml
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\obj\Debug\WcfUnityTrial.csprojResolveAssemblyReference.cache
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\obj\Debug\WcfUnityTrial.dll
+C:\Dell\MyExperiments\IOCUnityTrial\WcfUnityTrial\obj\Debug\WcfUnityTrial.pdb

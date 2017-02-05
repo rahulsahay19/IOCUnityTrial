@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCUnityTrial", "IOCUnityTrial\IOCUnityTrial.csproj", "{AA9F8919-9C7E-47C3-867F-24EB0B5517BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCUnityTrial.Tests", "IOCUnityTrial.Tests\IOCUnityTrial.Tests.csproj", "{7F4AAD22-BC82-4B72-96FB-287D39C57B8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfUnityTrial", "WcfUnityTrial\WcfUnityTrial.csproj", "{353E0828-A348-4135-A4A8-FABE05418D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingWCFUnity", "ConsumingWCFUnity\ConsumingWCFUnity.csproj", "{A6F19C43-2555-4F78-8811-A0D7E05F4B38}"
+	ProjectSection(ProjectDependencies) = postProject
+		{353E0828-A348-4135-A4A8-FABE05418D40} = {353E0828-A348-4135-A4A8-FABE05418D40}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9F8919-9C7E-47C3-867F-24EB0B5517BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9F8919-9C7E-47C3-867F-24EB0B5517BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9F8919-9C7E-47C3-867F-24EB0B5517BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9F8919-9C7E-47C3-867F-24EB0B5517BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4AAD22-BC82-4B72-96FB-287D39C57B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4AAD22-BC82-4B72-96FB-287D39C57B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4AAD22-BC82-4B72-96FB-287D39C57B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4AAD22-BC82-4B72-96FB-287D39C57B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353E0828-A348-4135-A4A8-FABE05418D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353E0828-A348-4135-A4A8-FABE05418D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353E0828-A348-4135-A4A8-FABE05418D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353E0828-A348-4135-A4A8-FABE05418D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F19C43-2555-4F78-8811-A0D7E05F4B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F19C43-2555-4F78-8811-A0D7E05F4B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F19C43-2555-4F78-8811-A0D7E05F4B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F19C43-2555-4F78-8811-A0D7E05F4B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
